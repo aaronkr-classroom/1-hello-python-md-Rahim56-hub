@@ -1,4 +1,13 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/htg-Yrej)
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=20363732)
-# py
-Starter Codespace for Python / Jupyter Notebook work.
+# My First Python Program
+
+This is a simple Python program written for my assignment.  
+It prints a greeting message and calculates the sum of two numbers.
+
+```python
+# greeting message
+print("Hello, world!")
+
+# simple addition
+a = 5
+b = 7
+print("The sum is:", a + b)
